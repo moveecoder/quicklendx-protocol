@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-2684-add-deterministic-failure-boundary-coverage-for"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-2684-add-deterministic-failure-boundary-coverage-for": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-2684-add-deterministic-failure-boundary-coverage-for"
+  ]
+}
